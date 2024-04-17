@@ -23,6 +23,7 @@
     "url": "https://github.com/malshan-hue/RestFullExpress/issues"
   },
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.4.5",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.4.0",
